@@ -1,5 +1,7 @@
 run backend:
+
 cd c:\Users\Arham\2fa COMP3654\back-end
+
 node app.js
 
 run frontend:
